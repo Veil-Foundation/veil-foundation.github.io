@@ -1,2 +1,2 @@
-# veil-foundation.github.io
-Veil Foundations Website
+# veil-labs.github.io
+Veil Labs website
