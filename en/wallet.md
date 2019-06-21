@@ -11,4 +11,4 @@ In addition, we will provide **paper wallet generators** for both the mainnet an
 
 After the release of our core wallets, we'll turn our focus to **mobile wallets** for **Android** and **iOS**, and the exploration of integration with common **hardware wallets**—such as **Ledger** and **Trezor**.
 
-Finally, integration with hardware wallets will be followed by work from the Veil Labs in an area called **delegated staking**, allowing Veil users to stake their coins from the security of a hardware wallet.
+Finally, integration with hardware wallets will be followed by work from the Veil Foundation in an area called **delegated staking**, allowing Veil users to stake their coins from the security of a hardware wallet.
